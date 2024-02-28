@@ -1,0 +1,9 @@
+# already done but python3 -m venv venv makes a new nenv
+
+
+#/ to activate-> source 108.1/venv/bin/activate
+
+#start server-> python3 -m http.server
+
+
+# you can see it by openeing this on browser > http://0.0.0.0:8000
